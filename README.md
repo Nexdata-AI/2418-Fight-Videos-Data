@@ -2,7 +2,7 @@
 
 ## Description
 2,418 Fight Videos Data. The data includes indoor scenes (restaurant, arena, bus, boxing room, etc.) and outdoor scenes (road, crosswalk, lawn, etc.). The data covers multiple scenes, different time, multiple weather distribution. The data can be used for tasks such as fight behavior analysis.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1061?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1061?source=Github
 
 
 # Specifications
